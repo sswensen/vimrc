@@ -30,6 +30,9 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Sets line numbers on left gutter
+set number
+
 " Sets how many lines of history VIM has to remember
 set history=500
 
